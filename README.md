@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋, I'm Worawut! I'm a highly motivated software developer with 6+ years of experience. I specialize in designing and developing custom modules for Odoo to meet specific domain requirements, as well as creating and customizing Odoo apps and developing REST APIs for various platforms.
 
-<!--
-**jimmy542/jimmy542** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technologies & Tools: Python, PHP, Kotlin, Java, Django, HTML, CSS, Codeigniter, MySQL, PostgreSQL, SQLite, Docker, Nginx, Git, Visual Studio Code, Ubuntu Server, and more.
 
-Here are some ideas to get you started:
+📈 GitHub Stats: Check out my GitHub stats and top languages:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/jimmy542">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jimmy542&show_icons=true&line_height=27&count_private=true&title_color=0077B5&text_color=9C9C9C&icon_color=0077B5&bg_color=0D1117" alt="Worawut's GitHub Stats" />
+</a>
+<a href="https://github.com/jimmy542">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmy542&langs_count=3&line_height=27&title_color=0077B5&text_color=9C9C9C&icon_color=0077B5&bg_color=0D1117" alt="Worawut's Top Languages" />
+</a> 
+🤝 Connect with Me: Feel free to reach out to me through the following links:
+
+📫 Email: worawutwattana@gmail.com
+💼 LinkedIn: linkedin.com/in/worawutwattana
+🌐 Portfolio: worawutwattana.com
