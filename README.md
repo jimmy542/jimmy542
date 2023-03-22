@@ -1,6 +1,6 @@
 Hi there 👋, I'm Worawut! I'm a highly motivated software developer with 6+ years of experience. I specialize in designing and developing custom modules for Odoo to meet specific domain requirements, as well as creating and customizing Odoo apps and developing REST APIs for various platforms.
 
-💻 Technologies & Tools: Python, PHP, Kotlin, Java, Django, HTML, CSS, Codeigniter, MySQL, PostgreSQL, SQLite, Docker, Nginx, Git, Visual Studio Code, Ubuntu Server, and more.
+💻 Technologies & Tools: Python, PHP, Kotlin, Java , javascript, Django, HTML, CSS, Codeigniter, MySQL, PostgreSQL, SQLite, Docker, Nginx, Git, Visual Studio Code, Ubuntu Server, and more.
 
 📈 GitHub Stats: Check out my GitHub stats and top languages:
 
