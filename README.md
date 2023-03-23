@@ -14,4 +14,4 @@ Hi there 👋, I'm Worawut! I'm a highly motivated software developer with 6+ ye
 
 📫 Email: worawutwattana@gmail.com
 💼 LinkedIn: linkedin.com/in/worawutwattana
-🌐 Portfolio: worawutwattana.com | The site is currently under development
+🌐 Portfolio: worawut.dev
