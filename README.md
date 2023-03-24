@@ -1,4 +1,4 @@
-Hi there 👋, I'm Worawut! I'm a highly motivated software developer with 6+ years of experience. I specialize in designing and developing custom modules for Odoo to meet specific domain requirements, as well as creating and customizing Odoo apps and developing REST APIs for various platforms.
+Hi there 👋, I'm Worawut! As a skilled software developer, I have a passion for creating innovative solutions using multiple programming languages. I'm committed to continuously learning and adapting to new technologies, recognizing that keeping up with the latest trends is essential for staying relevant in the industry. With a drive to leave a lasting impact and inspire others, I aim to push the boundaries of what's possible and help others reach new heights.
 
 💻 Technologies & Tools: Python, PHP, Kotlin, Java , Javascript, Django, HTML, CSS, Codeigniter, MySQL, PostgreSQL, SQLite, Docker, Nginx, Git, Visual Studio Code, Ubuntu Server, and more.
 
