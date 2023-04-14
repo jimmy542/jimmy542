@@ -13,5 +13,5 @@ Hi there 👋, I'm Worawut! As a skilled software developer, I have a passion fo
 🤝 Connect with Me: Feel free to reach out to me through the following links:
 
 📫 Email: worawutwattana@gmail.com
-💼 LinkedIn: linkedin.com/in/worawutwattana
-🌐 Portfolio: worawut.dev
+💼 LinkedIn: linkedin.com/in/worawutwattana 
+🌐 Portfolio: <a href="worawut.dev">worawut.dev</a>
